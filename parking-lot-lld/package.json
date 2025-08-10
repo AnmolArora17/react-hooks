@@ -1,0 +1,11 @@
+{
+  "name": "parking-lot-lld",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/demo.js",
+  "scripts": {
+    "start": "node src/demo.js",
+    "test": "node src/demo.js"
+  }
+}
