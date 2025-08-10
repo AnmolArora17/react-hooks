@@ -1,0 +1,19 @@
+{
+  "name": "node-factory-pattern-usecases",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Complex factory design pattern use cases in Node.js with mixed patterns and runnable demos.",
+  "scripts": {
+    "start": "node src/index.js",
+    "demo:payment": "node src/usecases/payment/demo.js",
+    "demo:notification": "node src/usecases/notification/demo.js",
+    "demo:pipeline": "node src/usecases/pipeline/demo.js",
+    "demo:cache": "node src/usecases/cache/demo.js",
+    "demo:plugins": "node src/usecases/plugins/demo.js",
+    "demo:all": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
