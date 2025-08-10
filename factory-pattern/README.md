@@ -212,3 +212,7 @@ NODE_ENV=prod npm run demo:notification
 ## License
 
 MIT
+---
+
+## Changelog
+- Re-added after reset; added this note to create a non-empty commit.
